@@ -1332,7 +1332,7 @@ A busca, a conferência com as páginas oficiais e a organização deste documen
 |---|---|---|---|
 | **Carlos Santos** | Levantamento e organização | [CarlosSuporteISP](https://github.com/CarlosSuporteISP) | [in/carlossantosc](https://www.linkedin.com/in/carlossantosc/) |
 | **Josué P. Santos** | Levantamento e organização | [Josue04Santos](https://github.com/Josue04Santos) | [in/josue-p-santos](https://www.linkedin.com/in/josue-p-santos) |
-| **Gilson Mendes** | Indicação das APIs gratuitas da NVIDIA Build | [GilsonMendes](https://github.com/GilsonMendes) | — |
+| **Gilson Mendes** | Indicação das APIs gratuitas da NVIDIA Build | [GilsonMendes](https://github.com/GilsonMendes) | [in/gilson-mendes](https://www.linkedin.com/in/gilson-mendes/) |
 
 ### 📚 Autores das fontes de descoberta
 
